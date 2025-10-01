@@ -17,7 +17,7 @@ Su objetivo es demostrar habilidades en automatización de pruebas unitarias y E
 - Flujo completo de compra simulado en pruebas E2E
 
  ## Estructura del proyecto:
-
+```sh
 retail-quality-engineer/
 │
 ├─ src/ (Frontend React)                  
@@ -37,7 +37,7 @@ retail-quality-engineer/
 ├─ package.json
 ├─ package-lock.json
 └─ README.md
-
+```
 
 
 ## Instalación
