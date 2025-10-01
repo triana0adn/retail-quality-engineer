@@ -101,12 +101,19 @@ Pruebas unitarias y E2E para validar el comportamiento correcto
 ## Visualización (Screenshots / GIFs)
 
 - App funcionando:
+<img width="482" height="357" alt="imagen" src="https://github.com/user-attachments/assets/193c1dab-6700-413f-b3be-60895b455549" />
 
 
 - Jest tests pasando:
+  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
 - Cypress tests pasando:
+
+<img width="408" height="266" alt="imagen" src="https://github.com/user-attachments/assets/4761597d-8826-43b2-8b3c-2dae529b6cba" />
+<img width="962" height="750" alt="imagen" src="https://github.com/user-attachments/assets/591d00d4-6fb5-490a-b87a-94d89ca0f934" />
+<img width="917" height="741" alt="imagen" src="https://github.com/user-attachments/assets/4a357bb7-79b5-41ac-8419-31d2d8454957" />
+
 
 
 
@@ -114,5 +121,5 @@ Pruebas unitarias y E2E para validar el comportamiento correcto
 
 MIT
 
-**Free Software, Hell Yeah!**
+**Free Software!**
 
